@@ -9,7 +9,7 @@ const Buscador = (props) => {
     <form className="formSearch">
       <input
         type="text"
-        placeholder="No lo se Rick"
+        placeholder="This is the funniest sh*t I've ever seen"
         name="search"
         id="search"
         onChange={handleChange}
